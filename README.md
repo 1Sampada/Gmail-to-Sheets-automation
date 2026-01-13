@@ -1,4 +1,4 @@
-My Full Name: Sampada Kiran Parate
+# My Full Name: Sampada Kiran Parate
 # Gmail to Google Sheets Automation
 
 This project reads unread Gmail emails and stores them into Google Sheets using Python and OAuth 2.0.
